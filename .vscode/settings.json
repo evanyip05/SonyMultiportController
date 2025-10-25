@@ -1,0 +1,11 @@
+{
+    "idf.pythonInstallPath": "C:\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.espIdfPathWin": "C:\\Espressif\\frameworks\\esp-idf-v5.5.1\\",
+    "files.associations": {
+        "esp_mac.h": "c",
+        "esp_task_wdt.h": "c",
+        "freertos.h": "c",
+        "esp_log.h": "c",
+        "task.h": "c"
+    }
+}
